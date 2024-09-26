@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Flutter, Go lang and C++  
   
 
-- ❓ Ask me about anything related to 3d Animations and front-end development  
+- ❓ Ask me about anything related to 3d Animations and Front-End Development  
   
 
 - <details> <summary>⚡ Fun fact: </summary> I'm a 3d animator too btw </details>  
@@ -104,5 +104,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
